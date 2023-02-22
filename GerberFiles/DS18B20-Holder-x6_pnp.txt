@@ -1,0 +1,24 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=DS18B20-Holder-x6
+*Date=22:08:59
+*CreatedBy=Fritzing 0.9.10b.2022-07-01.CD-2134-0-40d23c29
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;19.8262;-14.6322;-90;Bottom;DS2
+2;;;35.0662;-14.6322;-90;Bottom;DS5
+3;4.7k;THT;9.84122;-9.55645;90;Bottom;R1
+4;;THT;5.26922;-14.7635;0;Bottom;J1
+5;;THT;45.4012;-12.0965;0;Bottom;J2
+6;;;40.1462;-14.6322;-90;Bottom;DS6
+7;;;29.9862;-14.6322;-90;Bottom;DS4
+8;;;24.9062;-14.6322;-90;Bottom;DS3
+9;;;14.7462;-14.6322;-90;Bottom;DS1
