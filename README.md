@@ -6,3 +6,5 @@ J2 is a jumper to select normal or parasitic-power mode.  Short the middle pin t
 R1 is a 4.7 kOhm resistor, though most sensors can tolerate as low as 2.2 kOhm.
 
 If difficulties are experienced, test with shorter wires.
+
+Raspberry Pi code to work with multiple sensors [can be found here](https://github.com/AdamJHowell/RPiDS18B20).
