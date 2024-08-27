@@ -10,3 +10,5 @@ If difficulties are experienced, test with shorter wires.
 Raspberry Pi code to work with multiple sensors [can be found here](https://github.com/AdamJHowell/RPiDS18B20).
 
 Adruino code can be found [here](https://github.com/AdamJHowell/UnoTFT_DS18B20/).
+
+The 3D printing plans for an Arduino UNO project using this board can be downloaded [here](https://www.thingiverse.com/thing:6745784).
