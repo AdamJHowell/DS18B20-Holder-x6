@@ -12,3 +12,7 @@ Raspberry Pi code to work with multiple sensors [can be found here](https://gith
 Adruino code can be found [here](https://github.com/AdamJHowell/UnoTFT_DS18B20/).
 
 The 3D printing plans for an Arduino UNO project using this board can be downloaded [here](https://www.thingiverse.com/thing:6745784).
+
+![scematic](https://github.com/AdamJHowell/DS18B20-Holder-x6/blob/master/Scematic.png)
+![printed circuit board](https://github.com/AdamJHowell/DS18B20-Holder-x6/blob/master/PCB.png)
+![Picture of the front and back of two boards](https://github.com/AdamJHowell/DS18B20-Holder-x6/blob/master/PCB%20front%20and%20back.jpg)
